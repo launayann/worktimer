@@ -1,6 +1,6 @@
 # WorkTimer
 
-Application de suivi du temps de travail par catégorie avec statistiques visuelles.
+Application de suivi du temps de travail par catégorie avec statistiques visuelles..
 
 ## Fonctionnalités
 
